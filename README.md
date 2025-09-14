@@ -39,4 +39,4 @@ By understanding these hidden patterns, we hope to emphasize the importance of e
 - Monirah
 - Rama Aljoudi
 - Shatha
-- Renad
+- Renad AlRokan
