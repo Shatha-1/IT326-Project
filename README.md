@@ -37,6 +37,6 @@ By understanding these hidden patterns, we hope to emphasize the importance of e
 ## Group Members
 - Amani Bin Oun
 - Monirah
-- Rama
+- Rama Aljoudi
 - Shatha
 - Renad
