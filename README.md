@@ -38,5 +38,5 @@ By understanding these hidden patterns, we hope to emphasize the importance of e
 - Amani Bin Oun
 - Monirah Aljulhum
 - Rama Aljoudi
-- Shatha
+- Shatha bin mana
 - Renad AlRokan
