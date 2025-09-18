@@ -13,8 +13,8 @@ By analyzing these data, the project aims to identify possible reasons behind de
 ---
 
 ## Objectives
-- **Classification:** Predict whether a student is likely to experience depression based on their demographic, academic, and lifestyle attributes.  
-- **Clustering:** Group students into clusters based on similarities in study habits, stress levels, and lifestyle patterns to identify hidden mental health risk patterns.  
+- **Classification:** In the classification task, the Depression column serves as the target variable (Label), while the remaining columns are considered features used to build a model that predicts whether a student is experiencing depression or not.  
+- **Clustering:** Based on attributes such as age, academic pressure, study satisfaction, sleep duration, dietary habits, study hours, and financial stress, to discover hidden patterns among students without relying on predefined labels.
 
 ---
 
