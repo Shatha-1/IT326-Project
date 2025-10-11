@@ -1,0 +1,26 @@
+The dataset used in this project is called “Depression Student Dataset”.
+It contains information about students’ academic, personal, and environmental factors that may influence their mental health and depression levels.
+
+The attributes and their possible values are as follows:
+
+Gender: Male, Female
+
+Age: Numeric values ranging from 18 to 34
+
+Sleep Duration: Less than 5 hours, 5–6 hours, 6–8 hours, More than 8 hours
+
+Dietary Habits: Healthy, Moderate, Unhealthy
+
+Academic Pressure: Integer values from 1 to 5 representing pressure level
+
+Study Satisfaction: Integer values from 1 to 5 representing satisfaction level
+
+Study Hours: Numeric values approximately between 1 and 14 hours per day
+
+Financial Stress: Integer values from 1 to 5 representing stress level
+
+Family History of Mental Illness: Yes, No
+
+Have you ever had suicidal thoughts?: Yes, No
+
+Depression (Target Label): Yes (Depressed), No (Not Depressed)
