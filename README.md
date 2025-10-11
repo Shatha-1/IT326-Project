@@ -5,7 +5,7 @@
 
 ## Project Description
 This project focuses on understanding the issue of depression among students and the different factors that may contribute to it.  
-The dataset we collected provides information about students daily habits, academic life, and personal background, such as sleep duration, study pressure, satisfaction with studies, and lifestyle.  
+The dataset we chose provides information about students daily habits, academic life, and personal background, such as sleep duration, study pressure, satisfaction with studies, and lifestyle.  
 
 By analyzing these data, the project aims to identify possible reasons behind depression and provide insights that could help in understanding and addressing mental health challenges faced by students.
 
